@@ -1,0 +1,29 @@
+export interface Roadster {
+    flickrImages:    string[];
+    name:            string;
+    launchDateUTC:   Date;
+    launchDateUnix:  number;
+    launchMassKg:    number;
+    launchMassLbs:   number;
+    noradID:         number;
+    epochJd:         number;
+    orbitType:       string;
+    apoapsisAu:      number;
+    periapsisAu:     number;
+    semiMajorAxisAu: number;
+    eccentricity:    number;
+    inclination:     number;
+    longitude:       number;
+    periapsisArg:    number;
+    periodDays:      number;
+    speedKph:        number;
+    speedMph:        number;
+    earthDistanceKM: number;
+    earthDistanceMi: number;
+    marsDistanceKM:  number;
+    marsDistanceMi:  number;
+    wikipedia:       string;
+    video:           string;
+    details:         string;
+    id:              string;
+}

@@ -1,0 +1,16 @@
+@font-face {
+	font-family: Bebas;
+	src: url(../Assets/Fonts/BebasNeue-Regular.ttf);
+}
+@font-face {
+	font-family: Courier;
+	src: url(../Assets/Fonts/CourierPrime-Regular.ttf);
+}
+
+.bebas {
+	font-family: Bebas;
+}
+.subCourier {
+	font-family: Courier;
+	font-weight: bold;
+}

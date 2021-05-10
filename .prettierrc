@@ -1,0 +1,11 @@
+{
+	"proseWrap": "never",
+	"quoteProps": "preserve",
+	"useTabs": true,
+	"tabWidth": 4,
+	"singleQuote": true,
+	"semi": true,
+	"bracketSpacing": true,
+	"arrowParens": "avoid",
+	"trailingComma": "es5"
+}
